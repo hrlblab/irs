@@ -21,4 +21,3 @@ Our approach entails <br />
 3. Use [Testing_MoE_3expert_step1.py](https://github.com/hrlblab/irs/blob/main/Testing_MoE_3expert_step1.py) to test the model for step 1.
 4. Use [train_step2.py](https://github.com/hrlblab/irs/blob/main/train_step2.py) to train the model for step 2.
 5. Use [Testing_MoE_3expert_step2.py](https://github.com/hrlblab/irs/blob/main/Testing_MoE_3expert_step2.py) to test the model for step 2.
-
