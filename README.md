@@ -16,8 +16,9 @@ Our approach entails <br />
 
 
 ## Model Training
-1. Use [Dataset_save_csv.py](https://github.com/hrlblab/HATs/blob/main/Dataset_save_csv.py) to generate data list csv.
-1. Use [train_EfficientSAM_HATs.py](https://github.com/hrlblab/HATs/blob/main/train_EfficientSAM_HATs.py) to train the model.
-2. Use [Testing_EfficientSAM.py](https://github.com/hrlblab/HATs/blob/main/Testing_EfficientSAM.py) to test the model.
-
+1. Use [Dataset_save_csv.py](https://github.com/hrlblab/irs/blob/main/Dataset_save_csv.py) to generate data list csv.
+2. Use [train_step1.py](https://github.com/hrlblab/irs/blob/main/train_step1.py) to train the model for step 1.
+3. Use [Testing_MoE_3expert_step1.py](https://github.com/hrlblab/irs/blob/main/Testing_MoE_3expert_step1.py) to test the model for step 1.
+4. Use [train_step2.py](https://github.com/hrlblab/irs/blob/main/train_step2.py) to train the model for step 2.
+5. Use [Testing_MoE_3expert_step2.py](https://github.com/hrlblab/irs/blob/main/Testing_MoE_3expert_step2.py) to test the model for step 2.
 
