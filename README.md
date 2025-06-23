@@ -1,7 +1,7 @@
 # IRS: Incremental Relationship-guided Segmentation for Digital Pathology
 ### [[Project Page]](https://github.com/hrlblab/irs)   [[Preprint Paper]](https://arxiv.org/abs/2505.22855) <br />
 
-![Overview](https://github.com/hrlblab/HATs/blob/main/Overview.png)<br />
+![Overview](https://github.com/hrlblab/irs/blob/main/Anatomy-awareness.png)<br />
 
 This is the official implementation of IRS: Incremental Relationship-guided Segmentation for Digital Pathology. <br />
 
@@ -14,6 +14,7 @@ Our approach entails <br />
 (2) A prompt-driven dynamic mixture-of-experts (MoE) model that ensures stability and adaptability as the model continues to learn; 
 (3) The proposed segmentation pipeline effectively addresses the multi-scale nature of pathological segmentation, enabling precise kidney segmentation across various structures (regions, units, cells) and OOD disease lesions at multiple magnifications, thereby promoting domain generalization.
 
+![Method](https://github.com/hrlblab/irs/blob/main/Flexibility.png)<br />
 
 ## Model Training
 1. Use [Dataset_save_csv.py](https://github.com/hrlblab/irs/blob/main/Dataset_save_csv.py) to generate data list csv.
