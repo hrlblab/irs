@@ -14,7 +14,7 @@ Our approach entails <br />
 (2) A prompt-driven dynamic mixture-of-experts (MoE) model that ensures stability and adaptability as the model continues to learn; 
 (3) The proposed segmentation pipeline effectively addresses the multi-scale nature of pathological segmentation, enabling precise kidney segmentation across various structures (regions, units, cells) and OOD disease lesions at multiple magnifications, thereby promoting domain generalization.
 
-![Method](https://github.com/hrlblab/irs/blob/main/Flexibility.png)<br />
+<img src='https://github.com/hrlblab/irs/blob/main/Flexibility.png' align="center" height="530px"> 
 
 ## Model Training
 1. Use [Dataset_save_csv.py](https://github.com/hrlblab/irs/blob/main/Dataset_save_csv.py) to generate data list csv.
